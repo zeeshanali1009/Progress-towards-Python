@@ -1,3 +1,4 @@
+# python program to list the directories of the selected folder 
 # Importing the os module in the ide
 import os
 
