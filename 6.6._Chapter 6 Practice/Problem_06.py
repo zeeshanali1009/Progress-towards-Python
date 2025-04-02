@@ -1,22 +1,24 @@
-# Create a dictionary in such a way that have 4 name as the keys and the favorite languages as the values 
-# assumes that the names must be unique 
+# Write a program to allot the grade to the student according to the following scheme
+# 90-100 Ex
+# 80-90 A
+# 70-80 B
+# 60-70 C
+# 50-60 D
+# 40-50 F
 
-this_dictionary = {}
+user_input = input("Enter the name: ")
+user_marks = int(input("Enter your marks: "))
 
-user_input_1 = input("Enter your name: ")
-user_input_2 = input("Enter your favorite language: ")
-this_dictionary.update({user_input_1:user_input_2})
+if user_marks >= 90 and user_marks <= 100:
+    print("Student Grade : Excellent!")
+elif user_marks >= 80 and user_marks <= 90:
+    print("Student Grade : A!")
+elif user_marks >= 70 and user_marks <= 80:
+    print("Student Grade : B!")
+elif user_marks >= 60 and user_marks <= 70:
+    print("Student Grade : C!")
+elif user_marks >= 50 and user_marks <= 60:
+    print("Student Grade : D!")
+elif user_marks < 50:
+    print("Student Grade : Fail!")
 
-user_input_1 = input("Enter your name: ")
-user_input_2 = input("Enter your favorite language: ")
-this_dictionary.update({user_input_1:user_input_2})
-
-user_input_1 = input("Enter your name: ")
-user_input_2 = input("Enter your favorite language: ")
-this_dictionary.update({user_input_1:user_input_2})
-
-user_input_1 = input("Enter your name: ")
-user_input_2 = input("Enter your favorite language: ")
-this_dictionary.update({user_input_1:user_input_2})
-
-print(this_dictionary)
