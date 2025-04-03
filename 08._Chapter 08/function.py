@@ -22,8 +22,11 @@ greet("Zeeshan")
 # by default arguments
 
 def greet(name, endline = "Thank You!"):
-    print(f"Hello {name}")
-    print(endline)
+    a = print(f"Hello {name}")
+    return "done"
 
+# this will definetely return something "done" at the function calling 
+a = greet("Zeeshan", "Good Bye!")
+print(a)
+# this will give none in the output because in the function definition we have not retuned any thing 
 greet("Zeeshan")
-greet("Zeeshan", "Good Bye!")

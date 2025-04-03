@@ -4,3 +4,5 @@ Actually, main purpose is to cover every part of the python language for the bet
 There will be the differnt modules under study and different aspects of python to get better understanding.
 So, today I am going to start over the process of my learning in the python.
 So, here it is the first chapter:
+
+
