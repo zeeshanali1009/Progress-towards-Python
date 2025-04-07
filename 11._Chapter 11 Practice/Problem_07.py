@@ -1,24 +1,22 @@
-# This program makes a two dimensional and three dimensional vectors and print their content 
+# override the existing function and pass the list to the constructor 
+class Vector:
+    def __init__(self, list):
+        self.x, self.y, self.z = list
+    
+    def __add__(self, other):
+        return Vector([self.x + other.x, self.y + other.y, self.z + other.z])
+    
+    def __mul__(self, other):
+        return self.x * other.x + self.y * other.y + self.z * other.z
 
-class TwoDVector:
-    def __init__(self, i ,j):
-        self.i = i
-        self.j = j
-    def show(self):
-        print(f"Vector is {self.i}i +  {self.j}j")
+    def __str__(self):
+        return f"Vector ({self.x}i , {self.y}j , {self.z}k)"
+    
+    def __len__(self):
+        return 3
+    
 
-class ThreeDVector(TwoDVector):
-    def __init__(self,i,j,k):
-        # super().__init__(i,j)
-        self.i = i
-        self.j = j
-        self.k = k
-    def show(self):
-        print(f"Vector is {self.i}i + {self.j}j + {self.k}k")
-   
-
-a = TwoDVector(1,2)
-a.show()
-b= ThreeDVector(1,2,3)
-b.show()
+v1 = Vector([1, 2, 3])
+print(len(v1))         # Output: 3
+print(v1)              # Output: Vector (1i , 2j , 3k)
 
