@@ -44,5 +44,8 @@ Chapter 10 – Practice Set
 Chapter 11 – Inheritance and more on OOP
 Chapter 11 – Practice Set
 
-Chapter 11 – Advance Python Programming 
-Chapter 11 – Practice Set
+Chapter 12 – Advance Python Programming (Step 01)
+Chapter 12 – Practice Set
+
+Chapter 13 – Advance Python Programming (Step 02)
+Chapter 13 – Practice Set
