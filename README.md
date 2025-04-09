@@ -44,6 +44,8 @@ Chapter 10 – Practice Set
 Chapter 11 – Inheritance and more on OOP
 Chapter 11 – Practice Set
 
+Project 2: The Perfect Guess
+
 Chapter 12 – Advance Python Programming (Step 01)
 Chapter 12 – Practice Set
 
