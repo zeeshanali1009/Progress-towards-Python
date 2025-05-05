@@ -5,7 +5,7 @@ Chapter 01:
 Chapter 02:
     Variables
     Datatypes
-
+----------------------------------------------------------------------------------------------------------------------
 Chapter 03:
     Operaters
             Arithmetic Operaters
@@ -14,12 +14,12 @@ Chapter 03:
             Assignment Operaters
             Identity Operaters
             Membership Operaters
-
+----------------------------------------------------------------------------------------------------------------------
 Chapter 04:
     Control Statements
             If-elif-else statements
             Loops
-
+----------------------------------------------------------------------------------------------------------------------
 Chapter 05:
     Strings
             Strings complete details
@@ -28,7 +28,7 @@ Chapter 05:
             Splitting and Joining Methods
             Checking Methods
             Case Conversion Methods
-
+----------------------------------------------------------------------------------------------------------------------
 Chapter 06:
     Lists
         Lists
@@ -62,7 +62,7 @@ Chapter 06:
                                     reverse
                                     copy
 
-
+----------------------------------------------------------------------------------------------------------------------
 
 Chapter 07:
     Tupples
@@ -95,6 +95,29 @@ Chapter 07:
                     reverse     (not available)
                     copy        (not available)
 
-
+----------------------------------------------------------------------------------------------------------------------
+Chapter 08:
+            Dictionary
+                        Dictionary
+                                    intro
+                                    adding record into dictionary
+                                    updating record into the dictionary
+                                    deleting record from the dictionary
+                                    nested dictionaries
+                        Dictionary Creation Ways
+                                    Curly braces
+                                    dictionary constructor
+                                    dictionary comprehension
+                        Dictionary Methods
+                                    get
+                                    keys
+                                    values
+                                    items
+                                    pop
+                                    popitem
+                                    clear
+                        Loops
+                                    for loop
+                                    while loop
 
 
