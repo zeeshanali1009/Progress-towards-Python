@@ -29,4 +29,39 @@ Chapter 05:
             Checking Methods
             Case Conversion Methods
 
+Chapter 06:
+    Lists
+        Lists
+            intro
+            update
+            concatenate
+            repeat 
+            membership
+            Allias
+            nested
+            range
+            Lists Creation Ways
+                                square brackets
+                                List Constructor
+                                List Comprehension
+            List Methods
+                        Finding Methods
+                                        Min
+                                        Max
+                                        Common
+                        Other Methods
+                                      append
+                                      extend
+                                      insert
+                                      remove
+                                      pop
+                                      clear
+                                      index
+                                      count
+                                      sort
+                                      reverse
+                                      copy
+
+
+
 
