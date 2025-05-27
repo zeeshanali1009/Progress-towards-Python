@@ -119,5 +119,32 @@ Chapter 08:
                         Loops
                                     for loop
                                     while loop
+------------------------------------------------------------------------------------------------------------
+Chapter 09:
+            Functions
+                        Creation of functions
+                        parameters and arguments
+                        positional arguments
+                        default arguments 
+                        decoraters 
+                        generaters 
+                        lambda functions
+--------------------------------------------------------------------------------------------------------------
+Chapter 10
+            OOP 
+                            Classes and Objects 
+                            Constructors
+                            Polymorphism
+                            Inheritance
+                            Encapsulation
+                            Abstraction
+----------------------------------------------------------------------------------------------------------------
+Chapter 11
+            Exception Handling
+                                try- Except
+                                Finally
+                                Nested try except 
+                                password strength verification
+                                
 
 
