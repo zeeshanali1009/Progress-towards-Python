@@ -80,8 +80,8 @@ Chapter 07:
                             Tupple Constructor
                             Tupple Comprehension
         List Methods
-                    Min
-                    Max
+                    min
+                    max
                     Common
                     count
                     append      (not available)
