@@ -97,7 +97,6 @@ Chapter 07:
 
 ----------------------------------------------------------------------------------------------------------------------
 Chapter 08:
-            Dictionary
                         Dictionary
                                     intro
                                     adding record into dictionary
