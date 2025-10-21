@@ -66,7 +66,7 @@ Chapter 06:
 
 Chapter 07:
     Tupples
-        ListsTupples
+        Lists Tupples
             intro
             update      (not available)
             concatenate
