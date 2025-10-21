@@ -32,7 +32,7 @@ Chapter 05:
 Chapter 06:
     Lists
         Lists
-            intro
+            Intro
             update
             concatenate
             repeat 
